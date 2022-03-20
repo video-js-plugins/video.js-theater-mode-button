@@ -35,8 +35,5 @@
   "peerDependencies": {
     "react": "^17.0.2",
     "video.js": "^7.18.1"
-  },
-  "dependencies": {
-    "videojs-theater-mode-button": "^1.0.0"
   }
 }

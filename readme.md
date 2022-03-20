@@ -2,6 +2,8 @@
 This is a theater mode button plugin for videojs react js. With this plugin you don't have
 to manually configure theater mode button and you can adjust with your style.
 
+![Alt Text](/public/demo.gif)
+
 # Install
 ```
 npm i @video-js-plugins/videojs-theater-mode-button

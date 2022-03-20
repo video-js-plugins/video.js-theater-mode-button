@@ -1,6 +1,6 @@
 {
   "name": "@video-js-plugins/videojs-theater-mode-button",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This is a library for add new button theater mode inside videojs library. and this library gives you the ability to customize effect if the theater mode switch is on",
   "main": "dist/index.js",
   "module": "dist/index.es.js",

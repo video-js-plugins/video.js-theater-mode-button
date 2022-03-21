@@ -16,10 +16,10 @@ yarn add @video-js-plugins/videojs-theater-mode-button
 
 
 # Usage
-`Support reactjs`
+Support `reactJs`,`nextJs`, `vanillaJs` and more
 
 Add id `otnansirk-video-player-wrapper` to your root div of videojs player component
-and class `data-vjs-player` to className of tag `<video>`.
+and class `video-js-player` to className of tag `<video>`.
 
 
 
@@ -30,7 +30,7 @@ Example implement to file `video-player.js`
 import "@video-js-plugins/videojs-theater-mode-button"
 
 const player = videojs(videoElement, options);
-player.theaterModeButton(player)
+player.theaterModeButton(player)      // -> in this line use theater mode button
 
 ...
 
